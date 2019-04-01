@@ -7,3 +7,12 @@
 .navbar-nav {
   align-items: flex-end;
 }
+.jumbotron {
+  background-image: url(../images/dog.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px;
+  width: 100%;
+  text-align: center;
+}
