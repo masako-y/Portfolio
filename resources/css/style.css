@@ -16,3 +16,9 @@
   width: 100%;
   text-align: center;
 }
+.col-sm-4 img {
+  padding: 15px;
+}
+.card-body img {
+  padding: 15px;
+}
