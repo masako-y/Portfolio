@@ -2,7 +2,8 @@
   display: block;
   position: relative;
   margin: 0 auto;
-  max-width: 650px;
+  max-width: 640px;
+  max-height: 455px;
 }
 .navbar-nav {
   align-items: flex-end;
@@ -16,8 +17,11 @@
   width: 100%;
   text-align: center;
 }
+
+
+
 .col-sm-4 img {
-  padding: 15px;
+  padding: 25px;
 }
 .card-body img {
   padding: 15px;
